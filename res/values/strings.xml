@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smoothieclient Alpha</string>
+    <string name="jog_name">CNC Jog Controls</string>
+    <string name="console_name">Serial Console</string>
+    <string name="settings_name">CNC Settings</string>
+    <string name="hello">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="inputTextHint">enter command</string>
+    <string name="inputButton">Send</string>
+    <string name="imageDescription_XYJog">Jog Wheel for X and Y axes</string>
+    <string name="imageDescription_ZJog">Jog for Z axis</string>
+    <string name="button_connect_label">Connect</string>
+    <string name="button_load_label">Load file</string>
+    <string name="button_print_label">Print</string>
+    <string name="notification_ticker">Smoothieclient Service Notification Ticker Text</string>
+    <string name="notification_title">Smoothieclient</string>
+    <string name="notification_message">Connected to usb serial.</string>
+
+</resources>

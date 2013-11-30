@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 0x0403 / 0x6001: FTDI FT232R UART -->
+    <usb-device vendor-id="1027" product-id="24577" />
+
+    <!-- 0x2341 / Arduino -->
+    <usb-device vendor-id="9025" />
+
+    <!-- 0x16C0 / 0x0483: Teensyduino  -->
+    <usb-device vendor-id="5824" product-id="1155" />
+    
+    <!-- 0x1d50 / 0x6015: Smoothieboard -->
+    <usb-device vendor-id="7504" product-id="24597" />
+    
+    <!-- 0x1f00 / 0x2012: NXP LPC17XX -->
+    <usb-device vendor-id="7936" product-id="8210" />
+
+</resources>
